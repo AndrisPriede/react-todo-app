@@ -5,7 +5,7 @@ A  ToDo application built with React as part of the Web Application Development 
 The user can add tasks, mark them as completed, delete them, and the application also saves all tasks in the browser.
 
 
-## 🚀 Features
+#Features
 
 - Add new tasks  
 - Remove tasks  
